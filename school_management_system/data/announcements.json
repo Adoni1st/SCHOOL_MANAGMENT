@@ -1,0 +1,58 @@
+[
+    {
+        "id": "bfd7cfeb-785f-46c6-98d1-9ef98c95c6f8",
+        "title": "mikiyas",
+        "content": "hello",
+        "target": "Teacher",
+        "expiry_date": "2026-04-01T23:59:59",
+        "priority": "Medium",
+        "created_by": "Admin",
+        "created_at": "2025-06-08T00:35:07.173659"
+    },
+    {
+        "id": "97ba9491-4082-4c22-a39f-0fa96744f4ee",
+        "title": "njngdjnfd",
+        "content": "ndkgkdngd",
+        "target": "All",
+        "expiry_date": "2030-01-01T23:59:59",
+        "priority": "Medium",
+        "created_by": "Admin",
+        "created_at": "2025-06-08T00:35:55.805235"
+    },
+    {
+        "id": "0afcbd1b-1c17-407d-9c14-df74953c02e3",
+        "title": "hello world!",
+        "content": "upcoming quiz",
+        "target": "All",
+        "expiry_date": "2025-06-08T23:59:59",
+        "priority": "Medium",
+        "created_by": {
+            "username": "m",
+            "password_hash": "62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a",
+            "role": "Admin",
+            "full_name": "miki",
+            "email": "m@gmail.com",
+            "phone": null,
+            "created_at": "2025-06-07T21:41:22"
+        },
+        "created_at": "2025-06-08T23:43:07.280805"
+    },
+    {
+        "id": "6e55b012-7dac-4ec2-ad41-b2b017a8a56b",
+        "title": "exam",
+        "content": "final is coming study",
+        "target": "All",
+        "expiry_date": "2025-06-17T23:59:59",
+        "priority": "High",
+        "created_by": {
+            "username": "Aysheshim",
+            "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+            "role": "Admin",
+            "full_name": "Aysheshim",
+            "email": "ayshesh@gmail.com",
+            "phone": null,
+            "created_at": "2025-06-16T21:24:56"
+        },
+        "created_at": "2025-06-16T21:32:11.994753"
+    }
+]

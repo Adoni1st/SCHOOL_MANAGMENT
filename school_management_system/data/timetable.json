@@ -1,0 +1,753 @@
+{
+  "MATH101": {
+    "Monday": [
+      {
+        "period": 1,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Biology",
+        "teacher": "Daniel Tesfaye"
+      },
+      {
+        "period": 3,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "Chemistry",
+        "teacher": "Sara Lemma"
+      },
+      {
+        "period": 5,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "English",
+        "teacher": "Mesfin Habte"
+      },
+      {
+        "period": 7,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Tuesday": [
+      {
+        "period": 1,
+        "subject": "Biology",
+        "teacher": "Daniel Tesfaye"
+      },
+      {
+        "period": 2,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Physics",
+        "teacher": "Taye Bekele"
+      },
+      {
+        "period": 4,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Wednesday": [
+      {
+        "period": 1,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Mathematics",
+        "teacher": "Hanna Desta"
+      },
+      {
+        "period": 6,
+        "subject": "Physics",
+        "teacher": "Taye Bekele"
+      },
+      {
+        "period": 7,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Thursday": [
+      {
+        "period": 1,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "English",
+        "teacher": "Mesfin Habte"
+      },
+      {
+        "period": 4,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Chemistry",
+        "teacher": "Sara Lemma"
+      },
+      {
+        "period": 7,
+        "subject": "Biology",
+        "teacher": "Daniel Tesfaye"
+      },
+      {
+        "period": 8,
+        "subject": "Mathematics",
+        "teacher": "Hanna Desta"
+      }
+    ],
+    "Friday": [
+      {
+        "period": 1,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Mathematics",
+        "teacher": "Hanna Desta"
+      },
+      {
+        "period": 4,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Chemistry",
+        "teacher": "Sara Lemma"
+      },
+      {
+        "period": 6,
+        "subject": "Free",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "English",
+        "teacher": "Mesfin Habte"
+      },
+      {
+        "period": 8,
+        "subject": "Physics",
+        "teacher": "Taye Bekele"
+      }
+    ]
+  },
+  "ENG102": {
+    "Monday": [
+      {
+        "period": 1,
+        "subject": "Chemistry",
+        "teacher": "Sara Lemma"
+      },
+      {
+        "period": 2,
+        "subject": "English",
+        "teacher": "Mesfin Habte"
+      },
+      {
+        "period": 3,
+        "subject": "Mathematics",
+        "teacher": "Hanna Desta"
+      },
+      {
+        "period": 4,
+        "subject": "Biology",
+        "teacher": "Daniel Tesfaye"
+      },
+      {
+        "period": 5,
+        "subject": "Physics",
+        "teacher": "Taye Bekele"
+      },
+      {
+        "period": 6,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "Tuesday": [
+      {
+        "period": 1,
+        "subject": "English",
+        "teacher": "Mesfin Habte"
+      },
+      {
+        "period": 2,
+        "subject": "Physics",
+        "teacher": "Taye Bekele"
+      },
+      {
+        "period": 3,
+        "subject": "Mathematics",
+        "teacher": "Hanna Desta"
+      },
+      {
+        "period": 4,
+        "subject": "Chemistry",
+        "teacher": "Sara Lemma"
+      },
+      {
+        "period": 5,
+        "subject": "Biology",
+        "teacher": "Daniel Tesfaye"
+      },
+      {
+        "period": 6,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "Wednesday": [
+      {
+        "period": 1,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "Thursday": [
+      {
+        "period": 1,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "Friday": [
+      {
+        "period": 1,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "",
+        "teacher": ""
+      }
+    ]
+  },
+  "BIO103": {
+    "schedule": {
+      "Monday": [
+        "History",
+        "Mathematics",
+        "Biology",
+        "Mathematics",
+        "Physics",
+        "Mathematics",
+        "Chemistry"
+      ],
+      "Tuesday": [
+        "Mathematics",
+        "Chemistry",
+        "Biology",
+        "History",
+        "Physics",
+        "Chemistry",
+        "History"
+      ],
+      "Wednesday": [
+        "Physics",
+        "Geography",
+        "Physics",
+        "Physics",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Thursday": [
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Friday": [
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ]
+    },
+    "last_modified": "auto",
+    "periods": 7,
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ]
+  },
+  "CHEM104": {
+    "Monday": [
+      {
+        "period": 1,
+        "subject": "Chemistry",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Mathematics",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Physics",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "History",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Computer Science",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Art",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "Mathematics",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Art",
+        "teacher": ""
+      }
+    ],
+    "Tuesday": [
+      {
+        "period": 1,
+        "subject": "Mathematics",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Chemistry",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "m",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "Geography",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Biology",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Computer Science",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "Physics",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Wednesday": [
+      {
+        "period": 1,
+        "subject": "Physics",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Computer Science",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Chemistry",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "m",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "Geography",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "m",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "Biology",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Thursday": [
+      {
+        "period": 1,
+        "subject": "History",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Physics",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Mathematics",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "Biology",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "History",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Geography",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "Computer Science",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ],
+    "Friday": [
+      {
+        "period": 1,
+        "subject": "Geography",
+        "teacher": ""
+      },
+      {
+        "period": 2,
+        "subject": "Art",
+        "teacher": ""
+      },
+      {
+        "period": 3,
+        "subject": "Biology",
+        "teacher": ""
+      },
+      {
+        "period": 4,
+        "subject": "Art",
+        "teacher": ""
+      },
+      {
+        "period": 5,
+        "subject": "m",
+        "teacher": ""
+      },
+      {
+        "period": 6,
+        "subject": "Chemistry",
+        "teacher": ""
+      },
+      {
+        "period": 7,
+        "subject": "History",
+        "teacher": ""
+      },
+      {
+        "period": 8,
+        "subject": "Free",
+        "teacher": ""
+      }
+    ]
+  },
+  "HIST106": {
+    "periods_per_day": 7,
+    "working_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "timetable": {
+      "Monday": [
+        "Computer Science",
+        "Chemistry",
+        "Physics",
+        "History",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Tuesday": [
+        "Geography",
+        "Mathematics",
+        "Art",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Wednesday": [
+        "Biology",
+        "History",
+        "Physics",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Thursday": [
+        "Biology",
+        "Art",
+        "Mathematics",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "Friday": [
+        "Geography",
+        "Chemistry",
+        "Computer Science",
+        "Free",
+        "Free",
+        "Free",
+        "Free"
+      ]
+    }
+  }
+}

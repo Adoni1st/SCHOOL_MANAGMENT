@@ -1,0 +1,303 @@
+[
+    {
+        "username": "admin1",
+        "password_hash": "114663ab194edcb3f61d409883ce4ae6c3c2f9854194095a5385011d15becbef",
+        "role": "Admin",
+        "full_name": "admin",
+        "email": "admin@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-06T17:27:20"
+    },
+    {
+        "username": "teacher_che",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cff8fab8f6f0f7ab235d7b43ab11f17b2b",
+        "role": "Teacher",
+        "full_name": "Sara Lemma",
+        "email": "sara.chem@school.edu",
+        "phone": "0911223344",
+        "subject": "Chemistry",
+        "created_at": "2025-06-06T18:01:00"
+    },
+    {
+        "username": "teacher_math",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cff8fab8f6f0f7ab235d7b43ab11f17b2b",
+        "role": "Teacher",
+        "full_name": "Hanna Desta",
+        "email": "hanna.math@school.edu",
+        "phone": "0933445566",
+        "subject": "Mathematics",
+        "created_at": "2025-06-06T18:03:00"
+    },
+    {
+        "username": "adoni",
+        "password_hash": "26eddc9e316a680a56b9aa6ce5aa0938959e206dcefc19e2ccbc5ebd9406221b",
+        "role": "Student",
+        "full_name": "mikiyas shegaw",
+        "email": "adoni@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-07T08:21:26",
+        "class_code": "GEO107",
+        "roll_number": "1",
+        "gender": "Male",
+        "date_of_birth": "2000-01-20"
+    },
+    {
+        "username": "alemu12",
+        "password": "$2b$12$MFHk99qLxs8hn1zETbY2be3NSKOGiUVdatczasYNI70M/Q8AXeK1i",
+        "role": "Teacher"
+    },
+    {
+        "username": "hello77",
+        "password": "$2b$12$AaNrONS6ujP7FOibivim3OtN.0TDFUu9KtioWCp4xh1d/SJWpAJuS",
+        "role": "Teacher"
+    },
+    {
+        "username": "alemu21",
+        "password_hash": "1f2c3103f6a409bd8b5fcec469ae44ea0eef7131e49cb98565099ce32afb9208",
+        "role": "Admin",
+        "full_name": "alemu21",
+        "email": "alemu21@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-07T11:04:58"
+    },
+    {
+        "username": "meklit",
+        "password_hash": "3d5cf0bbd489434c42f253eee11286c9c4554570941cdc25c19912bfa70be14d",
+        "role": "Admin",
+        "full_name": "meklit",
+        "email": "meklit@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-07T14:08:34"
+    },
+    {
+        "username": "tsion",
+        "password_hash": "34e1c7ab37b500718b7664d9a51d8577e9c9fdf0b3d14628b0d8ab3c5cdbd32f",
+        "role": "Admin",
+        "full_name": "tsion shegaw",
+        "email": "tsion@gmail.com",
+        "phone": "097850212",
+        "created_at": "2025-06-07T21:05:22"
+    },
+    {
+        "username": "teacher",
+        "password": "$2b$12$5h7dxQquaHVLs294f95nMOsYVjxT/MglCGwBWLW2FJz.Uqazu8D8m",
+        "role": "Student"
+    },
+    {
+        "username": "mi",
+        "password_hash": "eee1c1ade6525d2463185a68156723b98306835f88a8d988c82fcf6d8baf85da",
+        "role": "Admin",
+        "full_name": "mikiyas shegaw",
+        "email": "mi@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-07T21:39:26"
+    },
+    {
+        "username": "m",
+        "password_hash": "62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a",
+        "role": "Admin",
+        "full_name": "miki",
+        "email": "m@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-07T21:41:22"
+    },
+    {
+        "username": "ada",
+        "password_hash": "fdee430d40bd57deeac186cd9790033d0f06f909a8806e7ce6e717ab7c7d5029",
+        "role": "Student",
+        "full_name": "ada",
+        "email": "ada@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-08T23:06:54",
+        "class_code": "ECON113",
+        "roll_number": "1",
+        "gender": "Female",
+        "date_of_birth": "2020-09-08"
+    },
+    {
+        "username": "ada1",
+        "password_hash": "a51f3cb910e651f4d7f9e358d0732c88e9f9d7ccdd01451c8f72567a9c2dfb1b",
+        "role": "Student",
+        "full_name": "ada1",
+        "email": "ada1@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-08T23:08:57",
+        "class_code": "MUS112",
+        "roll_number": "12",
+        "gender": "Female",
+        "date_of_birth": "2020-09-08"
+    },
+    {
+        "username": "ada2",
+        "password_hash": "4e09b8302d2364cde17b3e5d36c5f600c37389f62ce96adf45d6ea0a11f6a994",
+        "role": "Teacher",
+        "full_name": "ada2",
+        "email": "ada2@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-08T23:11:23",
+        "subject": "don't be a pussy",
+        "available_days": [
+            "Monday"
+        ],
+        "max_periods_per_day": 1
+    },
+    {
+        "username": "alemu",
+        "password_hash": "5b2891cba46ce2da44011fce9151c2dab22e195d52e5a3d81232fd81ce2abcee",
+        "role": "Admin",
+        "full_name": "alemu",
+        "email": "alemu@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-09T02:12:08"
+    },
+    {
+        "username": "tsion1",
+        "password_hash": "34e1c7ab37b500718b7664d9a51d8577e9c9fdf0b3d14628b0d8ab3c5cdbd32f",
+        "role": "Admin",
+        "full_name": "tsion1",
+        "email": "tsion1@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-09T02:15:45"
+    },
+    {
+        "username": "teacherr",
+        "password_hash": "ced33da6347d4c42fd028ac412c2b3c2d14ab8d060a45ad30553f583714b4f80",
+        "role": "Teacher",
+        "full_name": "teacherr",
+        "email": "teacher@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-10T19:10:47",
+        "subject": "dfhg",
+        "available_days": [
+            "Tuesday"
+        ],
+        "max_periods_per_day": 6
+    },
+    {
+        "username": "ts",
+        "password_hash": "088ee231608259c282aa4a6d555754fece2e6da87f968f7de18ab4e44c5b9da3",
+        "role": "Student",
+        "full_name": "ts",
+        "email": "ts@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-15T21:43:43",
+        "class_code": "ART110",
+        "roll_number": "12",
+        "gender": "Male",
+        "date_of_birth": "2020-09-01"
+    },
+    {
+        "username": "t",
+        "password_hash": "560d4d8b173df72e813f0f1914aeb5df3240b53457000c55a1baa84fc389fa1e",
+        "role": "Teacher",
+        "full_name": "t",
+        "email": "t@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-15T21:45:33",
+        "subject": "chemistry",
+        "available_days": [
+            "Monday",
+            "Tuesday"
+        ],
+        "max_periods_per_day": 1
+    },
+    {
+        "username": "student1",
+        "password_hash": "509e87a6c45ee0a3c657bf946dd6dc43d7e5502143be195280f279002e70f7d9",
+        "role": "Student",
+        "full_name": "student1",
+        "email": "mikiyasshegaw659@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-15T21:54:09",
+        "class_code": "CIV111",
+        "roll_number": "12",
+        "gender": "Male",
+        "date_of_birth": "2020-01-09"
+    },
+    {
+        "username": "teacher1",
+        "password_hash": "d6a78e7024124b13ef172b5853e9c63943a618655af216be3cfa02b519eb8455",
+        "role": "Teacher",
+        "full_name": "teacher1",
+        "email": "hello@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-15T21:55:21",
+        "subject": "biology",
+        "available_days": [
+            "Monday",
+            "Tuesday"
+        ],
+        "max_periods_per_day": 1
+    },
+    {
+        "username": "ale",
+        "password_hash": "34c0eb39c54183e962a63d50aed93f09e32bcbf860f3af433b8831c67901a538",
+        "role": "Admin",
+        "full_name": "alemu",
+        "email": "ale@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-15T22:46:08"
+    },
+    {
+        "username": "adoniyas",
+        "password_hash": "2235aa943d0206da2ce9f4e9209ed5c5916eabed08dae4b0ddec0e1aad59d893",
+        "role": "Student",
+        "full_name": "adoniyas",
+        "email": "adoniyas@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-16T00:15:51",
+        "class_code": "BUS114",
+        "roll_number": "1",
+        "gender": "Male",
+        "date_of_birth": "2025-06-26"
+    },
+    {
+        "username": "123456",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "Student",
+        "full_name": "123456",
+        "email": "123456@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-16T11:28:54",
+        "class_code": "BUS114",
+        "roll_number": "32",
+        "gender": "Male",
+        "date_of_birth": "2222-02-22"
+    },
+    {
+        "username": "Aysheshim",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "Admin",
+        "full_name": "Aysheshim",
+        "email": "ayshesh@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-16T21:24:56"
+    },
+    {
+        "username": "dadi_std",
+        "password_hash": "8734871a9d81f467f2ffe65398472e256a1fa95680a89b787815a3118dd4cff4",
+        "role": "Student",
+        "full_name": "dadi_std",
+        "email": "aysheshim.demile@gmail.com",
+        "phone": "0918350192",
+        "created_at": "2025-06-16T21:34:50",
+        "class_code": "PHYS105",
+        "roll_number": "1",
+        "gender": "Male",
+        "date_of_birth": "2025-03-14"
+    },
+    {
+        "username": "teacher3",
+        "password_hash": "8734871a9d81f467f2ffe65398472e256a1fa95680a89b787815a3118dd4cff4",
+        "role": "Teacher",
+        "full_name": "teacher3",
+        "email": "gg@gmail.com",
+        "phone": null,
+        "created_at": "2025-06-16T21:40:54",
+        "subject": "phy",
+        "available_days": [
+            "Wednesday"
+        ],
+        "max_periods_per_day": 1
+    }
+]

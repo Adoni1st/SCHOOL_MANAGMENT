@@ -1,0 +1,54 @@
+{
+  "mode": "manual",
+  "working_days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "periods_per_day": 6,
+  "schedule": {
+    "Monday": [
+      "Mathematics",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "Tuesday": [
+      "Mathematics",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ],
+    "Wednesday": [
+      "Free",
+      "Free",
+      "Free",
+      "Mathematics",
+      "Physics",
+      "Mathematics"
+    ],
+    "Thursday": [
+      "Free",
+      "Free",
+      "Free",
+      "Physics",
+      "Free",
+      "Mathematics"
+    ],
+    "Friday": [
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free",
+      "Free"
+    ]
+  },
+  "last_modified": "2025-06-07T22:04:36.166484"
+}

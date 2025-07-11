@@ -1,0 +1,43 @@
+[
+    {
+        "code": "MAT101",
+        "name": "Mathematics"
+    },
+    {
+        "code": "PHY101",
+        "name": "Physics",
+        "teacher": "Hanna Desta"
+    },
+    {
+        "code": "CHE101",
+        "name": "Chemistry",
+        "teacher": "Mesfin Habte"
+    },
+    {
+        "code": "BIO101",
+        "name": "Biology",
+        "teacher": "alemu12"
+    },
+    {
+        "code": "HIS101",
+        "name": "History",
+        "teacher": "alemu12"
+    },
+    {
+        "code": "GEO101",
+        "name": "Geography"
+    },
+    {
+        "code": "COM101",
+        "name": "Computer Science"
+    },
+    {
+        "code": "ART101",
+        "name": "Art"
+    },
+    {
+        "name": "m",
+        "code": "m",
+        "teacher": "Mesfin Habte"
+    }
+]

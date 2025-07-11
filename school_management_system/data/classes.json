@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Biology",
+        "code": "BIO103"
+    },
+    {
+        "name": "Chemistry",
+        "code": "CHEM104"
+    },
+    {
+        "name": "Physics",
+        "code": "PHYS105"
+    },
+    {
+        "name": "History",
+        "code": "HIST106"
+    },
+    {
+        "name": "Geography",
+        "code": "GEO107"
+    },
+    {
+        "name": "Computer Science",
+        "code": "CS108"
+    },
+    {
+        "name": "Physical Education",
+        "code": "PE109"
+    },
+    {
+        "name": "Art",
+        "code": "ART110"
+    },
+    {
+        "name": "Civics",
+        "code": "CIV111"
+    },
+    {
+        "name": "Music",
+        "code": "MUS112"
+    },
+    {
+        "name": "Economics",
+        "code": "ECON113"
+    },
+    {
+        "name": "Business Studies",
+        "code": "BUS114"
+    },
+    {
+        "name": "Environmental Science",
+        "code": "ENV115"
+    },
+    {
+        "name": "biology",
+        "code": "12"
+    }
+]

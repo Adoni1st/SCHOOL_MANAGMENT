@@ -1,0 +1,19 @@
+{
+    "attendance": [
+      {"email": "adoni@gmail.com", "date": "2025-06-01", "status": "Present"},
+      {"email": "ada@gmail.com", "date": "2025-06-01", "status": "Present"},
+      {"email": "ada1@gmail.com", "date": "2025-06-01", "status": "Present"},
+      {"email": "adoni@gmail.com", "date": "2025-06-02", "status": "Present"},
+      {"email": "ada@gmail.com", "date": "2025-06-02", "status": "Present"},
+      {"email": "ada1@gmail.com", "date": "2025-06-02", "status": "Present"},
+      {"email": "adoni@gmail.com", "date": "2025-06-03", "status": "Late"},
+      {"email": "ada@gmail.com", "date": "2025-06-03", "status": "Present"},
+      {"email": "ada1@gmail.com", "date": "2025-06-03", "status": "Present"},
+      {"email": "adoni@gmail.com", "date": "2025-06-04", "status": "Present"},
+      {"email": "ada@gmail.com", "date": "2025-06-04", "status": "Late"},
+      {"email": "ada1@gmail.com", "date": "2025-06-04", "status": "Present"},
+      {"email": "adoni@gmail.com", "date": "2025-06-05", "status": "Absent"},
+      {"email": "ada@gmail.com", "date": "2025-06-05", "status": "Present"},
+      {"email": "ada1@gmail.com", "date": "2025-06-05", "status": "Present"}
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "attendance": [
+        {
+            "id": "3",
+            "name": "Adoni",
+            "code_used": "243185",
+            "email_code_used": "453823",
+            "timestamp": "2025-06-06 22:30:45",
+            "date": "2025-06-06"
+        },
+        {
+            "id": "3",
+            "name": "Adoni",
+            "code_used": "267168",
+            "email_code_used": "225235",
+            "timestamp": "2025-06-07 08:28:29",
+            "date": "2025-06-07"
+        },
+        {
+            "email": "mikiyasshegaw659@gmail.com",
+            "name": "student1",
+            "code_used": "169529",
+            "email_code_used": "722346",
+            "timestamp": "2025-06-15 22:10:48",
+            "date": "2025-06-15"
+        },
+        {
+            "email": "aysheshim.demile@gmail.com",
+            "name": "dadi_std",
+            "code_used": "145048",
+            "email_code_used": "097939",
+            "timestamp": "2025-06-16 21:44:52",
+            "date": "2025-06-16"
+        }
+    ]
+}

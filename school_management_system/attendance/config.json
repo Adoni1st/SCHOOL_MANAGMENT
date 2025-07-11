@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "johndoe@gmail.com"
+        },
+        {
+            "id": "2",
+            "name": "Jane Smith",
+            "email": "janesmith@gmail.com"
+        },
+        {
+            "id": "3",
+            "name": "Adoni",
+            "email": "adoniaysheshim@gmail.com"
+        }
+    ],
+    "totp_secret": "JBSWY3DPEHPK3PXP"
+}
